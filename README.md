@@ -1,4 +1,4 @@
-# TEN
+# TEN: A Transformer-based Efficient Network for Pneumonia Diagnosis with Chest X-rays
 ## Training
 python train.py  
 --epochs 400  
