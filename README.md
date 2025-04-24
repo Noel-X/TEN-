@@ -1,5 +1,5 @@
 # TEN
-# Training
+## Training
 python train.py
 
 --epochs 400
@@ -10,7 +10,7 @@ python train.py
 
 --weights https://download.pytorch.org/models/resnet34-333f7ec4.pth
 
-# Testing
+## Testing
 python confusion_matrix_MSG.py
 
 --batch-size 2
